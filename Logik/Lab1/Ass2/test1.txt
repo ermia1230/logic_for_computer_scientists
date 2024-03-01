@@ -1,0 +1,5 @@
+[person(john),person(mary),person(bob)].
+p.
+[likes(john, pizza),
+likes(mary, chocolate),
+likes(bob, coffee)].
